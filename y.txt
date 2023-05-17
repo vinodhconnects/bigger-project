@@ -1,5 +1,1 @@
 feature 1 branch
-
-store
-sample
-hey
